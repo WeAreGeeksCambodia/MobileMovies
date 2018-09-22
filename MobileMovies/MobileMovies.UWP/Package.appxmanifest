@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="3eeb3d9b-c03f-4cb2-b319-d621324db8c4"
-    Publisher="CN=49b34ac2-9f87-4eb1-ba80-e54d7f293fbb"
+    Name="1721cdea-da87-45c8-a7b9-1c5414bad572"
+    Publisher="CN=417ad095-93f1-47d4-80f9-7eef46fc6089"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>MobileMovies.UWP</DisplayName>
-    <PublisherDisplayName>49b34ac2-9f87-4eb1-ba80-e54d7f293fbb</PublisherDisplayName>
+    <PublisherDisplayName>417ad095-93f1-47d4-80f9-7eef46fc6089</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

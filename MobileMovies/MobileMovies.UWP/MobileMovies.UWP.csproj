@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{B981E067-94FB-43B6-B746-255FB8EA1E39}</ProjectGuid>
+    <ProjectGuid>{F6181776-4498-4A07-B829-E936ABAF05A0}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MobileMovies.UWP</RootNamespace>
@@ -148,7 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MobileMovies\MobileMovies.csproj">
-      <Project>{35D0E990-55D8-4CCC-8C4A-5FBB859179CD}</Project>
+      <Project>{07101899-9320-4497-8023-7C4497AEB510}</Project>
       <Name>MobileMovies</Name>
     </ProjectReference>
   </ItemGroup>

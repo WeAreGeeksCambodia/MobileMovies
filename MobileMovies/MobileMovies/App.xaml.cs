@@ -11,7 +11,7 @@ namespace MobileMovies
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new FlashScreen();
         }
 
         protected override void OnStart()
