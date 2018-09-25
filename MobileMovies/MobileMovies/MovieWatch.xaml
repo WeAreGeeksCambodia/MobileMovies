@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+           xmlns:player="clr-namespace:Xamarians.MediaPlayer;assembly=Xamarians.MediaPlayer"
+             x:Class="MobileMovies.MovieWatch">
+
+    <ContentPage.Content>
+        <StackLayout>
+
+            <player:VideoPlayer x:Name="VideoPlayer" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" AutoPlay="True" Source="http://vjs.zencdn.net/v/oceans.mp4"/>
+            <!--<WebView x:Name="Browser"
+                 VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"/>
+            <Label Text="shit"/>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -10,13 +10,12 @@ namespace MobileMovies
         public App()
         {
             InitializeComponent();
-
-            MainPage = new FlashScreen();
         }
 
         protected override void OnStart()
         {
             // Handle when your app starts
+            MainPage = new FlashScreen();
         }
 
         protected override void OnSleep()

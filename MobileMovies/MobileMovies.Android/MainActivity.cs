@@ -20,6 +20,8 @@ namespace MobileMovies.Droid
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
+
+            Xamarians.MediaPlayer.Droid.VideoPlayerRenderer.Init(this);
         }
     }
 }

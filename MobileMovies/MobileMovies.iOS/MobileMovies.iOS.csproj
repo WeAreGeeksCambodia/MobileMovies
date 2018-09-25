@@ -157,4 +157,7 @@
       <Name>MobileMovies</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\imgFlash.png" />
+  </ItemGroup>
 </Project>
